@@ -1,0 +1,19 @@
+header{
+    background-color: MediumAquamarine;
+    }
+}
+body {
+    background-color: red;
+}
+
+footer {
+    background-color: MediumAquamarine;
+    height: 30px;
+    width: 30px;
+}
+
+
+img {
+	border-radius: 50%
+}
+
